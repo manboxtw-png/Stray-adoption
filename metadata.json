@@ -1,0 +1,6 @@
+{
+  "name": "毛孩尋家 - 動物認養平台",
+  "description": "一個溫馨活潑的動物認養網頁，包含照片輪播、篩選功能與詳細收容動物資訊。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
